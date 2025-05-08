@@ -4,4 +4,4 @@ pandoc *.md \
   --epub-title-page=false \
   --split-level=1 \
   --toc-depth=1 \
-  -o "weread_notes.epub"
+  -o "微信读书笔记.epub"
